@@ -13,7 +13,7 @@ ________________________________________
 3.1 index.html
 •	Purpose: This file serves as the user interface for the Factorial Calculator.
 •	Key Elements:
-•	A title ((<h1>)) for the application.
+•	A title h1 for the application.
 •	An input field (<input>) for users to enter a positive integer.
 •	Two buttons to trigger the factorial calculation using either the iterative or recursive method.
 •	A <div> to display the result of the calculation.
